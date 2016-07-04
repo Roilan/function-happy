@@ -1,6 +1,6 @@
 {
   "name": "functionhappy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "semistandard wrapped with eslint-config-function-happy",
   "main": "index.js",
   "bugs": {
